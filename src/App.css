@@ -1,0 +1,20 @@
+.wrapper {
+  width: 100vw;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.todoInput {
+  width: 20rem;
+  height: 2rem;
+  border-radius: 5px;
+  padding: 0.675rem 1rem;
+  font-size: 1rem;
+}
+
+.addButton {
+  background-color: greenyellow;
+  height: 3rem;
+  padding: 0.675rem 1rem;
+}
